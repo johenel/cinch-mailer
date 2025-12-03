@@ -35,4 +35,5 @@ return [
         ],
     ],
 
+    'checkout_service_url' => env('CHECKOUT_SERVICE_URL', 'http://checkout-nginx')
 ];
