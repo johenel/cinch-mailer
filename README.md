@@ -1,7 +1,7 @@
 Enter product service
 
 ``` 
-    docker exec -it cinch-mailer-1 bash
+    docker exec -it cinch-email-1 bash
 ```
 
 Create and configure .env file
