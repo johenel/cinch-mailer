@@ -47,6 +47,9 @@ MAIL_ENCRYPTION=tls
 MAIL_PASSWORD=(provide your own config)
 MAIL_FROM_ADDRESS=(provide your own config)
 MAIL_FROM_NAME="Cinch Checkout"
+
+TESTING_USER_EMAIL=(your test email)
+CHECKOUT_SERVICE_URL=http://checkout-nginx
 ```
 
 Proceed with the following scripts in order
